@@ -1,0 +1,97 @@
+.navbar{
+    background-color:rgb(44,62,80);
+/*     position: fixed; */
+    width: 100%;
+   
+}
+.navbar-brand{
+    font-weight: 700;
+    font-size: 28px;
+}
+body{
+font-family: 'Lato';
+
+}
+.navbar-nav{
+    font-size: 16px;
+}
+section.hero{
+    background-color:#1abc9c;
+    color: #fff;
+    text-align: center;
+}
+.hero img{
+    height: 240px; 
+    width: 254px;
+   margin: 48px;
+}
+.hero h1{
+    
+    font-weight: 700; 
+}
+.hero p{
+    font-size: 24px;
+}
+
+.portfolio{
+    padding: 96px;
+}
+.portfolio h2{
+    text-align: center;
+    color: rgb(44,62,80);
+}
+.about{
+    background-color: #1abc9c;
+;
+
+}
+.about h1{
+    text-align: center;
+    font-size: 38px;
+    font-weight: 700; 
+    padding: 8px;
+    color: #fff;
+}
+.about p{
+    color: white;
+    font-size: 20px;
+
+}
+.button {
+    background-color: white;
+    color: black;
+    padding: 16px 28px;
+  }
+  
+  .button :hover{
+    background-color: #e7e7e7;
+}
+.lokasyon{
+    background-color:#2c3e50;
+    height: 303px;
+    width: 100%;
+}
+.lokasyon a{
+    text-decoration: none;
+    color: #1abc9c;
+}
+.lokasyon p{
+    font-size: 20px;
+}
+ footer{
+    background-color:#1a252f;
+    width: 1064;
+    height: 72.2;
+    color: #fff;
+
+ }
+.contact h1{
+    text-align: center;
+    font-size: 28px;
+    font-weight: 700;
+    color: #2c3e50;
+}
+
+.navbar-nav .nav-item a:hover{
+    color: #1abc9c;
+}
